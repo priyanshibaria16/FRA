@@ -85,6 +85,4 @@ UPLOAD_FOLDER=./uploads
 MAX_CONTENT_LENGTH=16777216  # 16MB
 ALLOWED_EXTENSIONS={'pdf', 'png', 'jpg', 'jpeg', 'gif'}
 
-# AI Integration (optional)
-EMERGENT_LLM_KEY=your_emergent_llm_key_here
 ```
